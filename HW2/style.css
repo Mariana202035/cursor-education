@@ -1,0 +1,30 @@
+body{
+    background-color: papayawhip;
+
+}
+.first{
+    margin-left: 170px;
+    margin-right: 170px;
+}
+.photo{
+    width: 400px;
+}
+.sidebar{
+    margin-right: 50px;
+    margin-left: 10px;
+    text-align: center;
+}
+.head{
+    text-align: center;
+}
+.main{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.top{
+    padding-left: 250px;
+}
+.main-content{
+    margin-left: 50px;
+    margin-right: 50px;
+}
