@@ -1,0 +1,132 @@
+
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.box1{
+    background-color: #ED4C5C;
+    width: 1400px;
+    height: 500px;
+    position: relative;
+    padding-left: 165px;
+    margin: 0px;
+
+}
+h1{ width: 445px;
+    height: 122px;
+    padding-top: 116px;
+    padding-bottom: 2px;
+}
+.box1a{
+    width: 445px;
+    height: 200px;
+}
+.vector1{
+    padding-top: 60px;
+    padding-left:7px;
+}
+.box1b{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.photo1{
+    position: absolute;
+    width: 533px;
+    height: 267px;
+    opacity: 0.6;
+    top: 116px;
+    right: 216px;
+    border-radius: 15px;
+}
+.photo2{
+    position: absolute;
+    width: 445px;
+    height: 311px;
+    top: 94px;
+    right: 260px;
+    border-radius: 4%;
+}
+.box2{
+    background-color: #FFFFFF;
+    width: 1400px;
+    height: 500px;
+    position: relative;
+    padding-left: 125px;
+    color: #000000;
+}
+.box2a{
+    width: 445px;
+    padding-left: 47px;
+}
+.box2b{
+    position: absolute;
+    right:  80px;
+    top: 45px;
+    color: 50%;
+}
+.inp1{
+    width: 250px;
+    height: 60px;
+    padding-left: 31px;
+    border-radius: 6px;
+}
+.inp2{
+    width: 540px;
+    height: 60px;
+    margin-top: 24px;
+    padding-left: 31px;
+    border-radius: 6px;
+}
+.submit{
+    width: 169px;
+    height: 50px;
+    background-color: #ED4C5C;
+    color:#FFFFFF;
+    margin-top: 27px;
+}
+.box3{
+    background-color: #FAFAFA;
+    width: 1440px;
+    height: 435px;
+    padding-left: 170px;
+    margin-top: 45px;
+}
+.footer1{
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-top: 85px;
+    padding-right: 60px;
+}
+.footer2{
+    width: 250px;
+    height: 150px;
+    float: left;
+    padding-top: 85px;
+    padding-right: 50px;
+}
+.footer3{
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-top: 85px;
+    padding-right: 50px;
+}
+.footer4{
+    width: 250px;
+    height: 200px;
+    float: left;
+    padding-top: 85px;
+}
+h5{
+    padding-top: 150px;
+}
+.list{
+    list-style: none;
+    padding-left: 3px;
+}
+.img{
+    padding-left: 5px;
+    padding-top: 8px;
+}
