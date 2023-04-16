@@ -1,0 +1,288 @@
+
+.main{
+    width: 1440px;
+    height: 4077px;
+    background-color: #F5F5F5;
+}
+.lady{
+    font-size: 32px;
+    font-family: rochester;
+}
+.nav3{
+    color: #000000;
+    font-size: 28px;
+    font-family: Playfair Display;
+}
+.home{
+    color: #eda385;
+    margin-right: 79px;
+}
+h1{
+    font-size: 48px;
+    font-family: Playfair Display;
+    color: #FFFFFF;
+}
+.h2{
+    font-size: 48px;
+    color: #1B2437;
+    font-family: Playfair Display;
+}
+h3{
+    font-size: 32px;
+    font-family: Playfair Display;
+}
+.h4{
+    font-size: 18px;
+    font-family:Playfair Display ;
+    color: #000000;
+}
+.h5{
+    font-size: 16px;
+    color: #8E8E93;
+    font-family: Mulish;
+}
+.h6{
+    font-size: 16px;
+    font-family: Mulish;
+    padding-top: 40px;
+    color: #000000;
+}
+.boxnav{
+    width: 100%;
+    height: 153px;
+    padding-top: 33px;
+    background-color: #FEFEFE;
+}
+.nav{
+    height: 75px;
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav3{
+    height: 77px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 29px;
+}
+.nav2{
+    padding-right: 80px;
+}
+.box{
+    padding-left: 165px;
+}
+.box1{
+    width: 1440px;
+    height: 563px;
+    background-image: url(img1p/hero.png);
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 71px;
+    padding-top: 39px;
+}
+.text1{
+    padding-left: 164px;
+    padding-top: 103px;
+    font-family: Mulish;
+    font-size: 18px;
+}
+.button1{
+    width: 255px;
+    height: 77px;
+    background-color: #1B2437;
+    color:#FFFFFF;
+    border-radius: 15px;
+    margin-top: 34px;
+    padding:23px 78px;
+}
+.box{
+    width: 1100px;
+    height: 3200px;
+    padding-left: 165px;
+    padding-right: 165px;
+}
+.box2{
+    width: 1100px;
+    height: 700px;
+    margin-top:71px;
+    display: grid;
+    grid-template-areas:
+    "a a b c"
+    "a a d d"
+    "e e e e";
+    gap: 25px;
+}
+.box2a{
+    grid-area: a;
+}
+.box2b{
+    grid-area: b;
+}
+.box2c{
+    grid-area: c;
+}
+.box2d{grid-area: d;
+}
+.box2e{
+    grid-area: e;
+}
+.box2a{
+    background-image: url(img2p/women_collection_category.png);
+    width: 445px;
+    height: 458px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 32px;
+    color: #FFFFFF;
+}
+.button2{
+    width: 93px;
+    height: 32px;
+    background-color:rgba(red, green, blue, alpha,0.1) #8E8E93;
+    color:rgba(red, green, blue, alpha,0.5) #8E8E93;
+    border-radius: 8px;
+}
+.woman{
+    padding-top: 168px;
+}
+.box2b{
+    width: 303px;
+    height: 225px;
+    background-color:#F5F5F4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 12px;
+}
+.t{
+    padding-top: 40px;
+}
+.box2c{
+    background-image: url(img3p/dresses_category.png);
+    width: 302px;
+    height: 225px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box2d{
+    background-image: url(img4p/denim_jackets_category.png);
+    width: 635px;
+    height: 204px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 22px;
+}
+.box2e{
+    width: 1100px;
+    height: 300px;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-around;
+    background-color: #FFFFFF;
+}
+.box3{
+    width: 1100px;
+    height: 730px;
+    display:flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.pic{
+    width: 350px;
+    height: 487px;
+}
+.text3{
+    font-size: 16px;
+    color: #000000;
+    font-family: Mulish;
+    font-weight: 700;
+    width: 325px;
+    height: 60px;
+}
+.button3{
+    width: 153px;
+    height: 58px;
+    background-color: #eda385;
+    color: #EFEFF4;
+    border-radius: 15px;
+    margin-left: 100px;
+}
+.button4{
+    width: 153px;
+    height: 58px;
+    background-color: #1B2437;
+    color: #FFFFFF;
+    border-radius: 15px;
+    margin-left: 100px;
+}
+.map{
+    width: 1140px;
+    height: 333px;
+    color: #F5F5F5;
+    padding: 12px 12px 135px 12px;
+    margin-top: 400px;
+}
+.map1{
+    display: flex;
+    justify-content:space-around;
+    padding-top: 50px;
+    width: 1100px;
+    height: 200px;
+}
+.m{
+    color: #1B2437;
+}
+.footer {
+   width: 1440px;
+   height: 300px;
+   margin-top: 100px;
+   color:#1B2437;
+   padding-top: 70px;
+}
+.art1{
+    width: 255px;
+    height: 180px;
+    float: left;
+    margin-right: 128px;
+    padding-top: 32px
+}
+.art2{
+    width: 150px;
+    height: 180px;
+    float: left;
+    padding-right: 128px;
+    padding-top: 48px;
+}
+.art3{
+    width: 150px;
+    height: 180px;
+    float: left;
+    padding-top: 48px;
+    padding-right: 128px;
+}
+.art4{
+    width: 150px;
+    height: 180px;
+    float: left;
+    padding-top: 48px;
+}
+.footer2{
+    width: 100%;
+    height: 74px;
+    background-color: #e5e5ea;
+    margin-top: 30px;
+    padding-top: 28px;
+}
+.footer3{
+    padding-left: 810px;
+}
+.text4{
+    color: #5C5C5C;
+    font-size: 16px;
+    font-family: Playfair Display;
+}
+.text5{
+    font-size: 18px;
+    font-family: Playfair Display;
+    color: #000000;
+}
