@@ -221,12 +221,13 @@ p{
         margin-left: 2%;
 
     }
-    .box7b{
-        float: none;
+    .picture7{
+        display: none;
     }
     .text8{
-        display:none
+        display:none;
     }
-    
-    
+    .img8a,.img8b{
+        margin-left: 0%;
+    }
 }
