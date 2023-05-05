@@ -1,0 +1,83 @@
+.body{
+    background-color: blanchedalmond;
+}
+.box{
+    width: 550px;
+    height: 400px;
+    background-color: black;
+    margin: 100px 400px;
+}
+.box1{
+    width: 300px;
+    height: 25px;
+    border-radius: 15%;
+    background-color: gainsboro;
+    margin: 70px 100px;
+}
+.box1a{
+    width: 20px;
+    color: blue;
+    margin: 0;
+}
+.box2{
+    width: 300px;
+    height: 25px;
+    border-radius: 15%;
+    background-color: gainsboro;
+    margin-bottom: 30px;
+    margin-left: 100px;
+}
+.box3{
+    width: 300px;
+    height: 25px;
+    border-radius: 15%;
+    background-color: gainsboro;
+    margin-left: 100px;
+}
+.circle{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 200px;
+}
+.circle1{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle2{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle3{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle4{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle5{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle6{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
+.circle7{
+    width: 80px;
+    height: 80px;
+    background-color: cyan;
+    border-radius: 50%;
+}
